@@ -1,2 +1,2 @@
 # AOFtools
-AOF tools used to analyse the Adaptive Optics Modules
+AOF tools used to analyze the turbulence parameters from the AOF UT4
